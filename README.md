@@ -1,6 +1,8 @@
 # 💫 About Me:
 <br><br>    🔭 I’m currently working on Sphericube<br><br>    🌱 I’m currently learning NextJs<br><br>    👨‍💻 All of my projects are available at https://horizonnova.de<br><br>    📫 How to reach me Discord: crossnite<br><br>    ⚡ Fun fact I love Helping People<br>
 
+
+### 📫 Like to talk to me?
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
