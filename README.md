@@ -1,6 +1,11 @@
 # 💫 About Me:
 <br><br>    🔭 I’m currently working on Sphericube<br><br>    🌱 I’m currently learning NextJs<br><br>    👨‍💻 All of my projects are available at https://horizonnova.de<br><br>    📫 How to reach me Discord: crossnite<br><br>    ⚡ Fun fact I love Helping People<br>
 
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx crossnite
+```
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/aqfm8T5U2t) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@horizonnova) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HorizonNV) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@crossnite_dev) 
@@ -21,4 +26,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=crossnite&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
